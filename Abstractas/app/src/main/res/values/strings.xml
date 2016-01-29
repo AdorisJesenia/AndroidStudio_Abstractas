@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Abstractas</string>
+    <string name="Lado">Dame el lado</string>
+    <string name="calcular">Calcular</string>
+</resources>
